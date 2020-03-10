@@ -1,2 +1,7 @@
 # hello-world
-Just another repo
+
+#!/bin/bash
+
+Hello, humans!
+
+gh4shmt here, I'm learning how to code and to use GitHub.
